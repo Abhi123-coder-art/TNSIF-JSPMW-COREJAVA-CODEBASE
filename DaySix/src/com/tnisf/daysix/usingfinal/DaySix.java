@@ -11,7 +11,7 @@ final class FinalClass {
 //	
 //}
 
-public class FinalClassDemo {
+public class DaySix {
 
 	public static void main(String[] args) {
 		FinalClass f1=new FinalClass();
